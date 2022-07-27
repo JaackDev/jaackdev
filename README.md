@@ -1,6 +1,20 @@
 ### Hi there 👋
 
+#### Aspiring Web Dev & Current Cyber Security Student!
+
+- 🔭 I’m currently working on teaching myself Web Development!
+- 🌱 I’m currently learning Javascript.
+- 🤓 What I want to learn next: React
+
+
 <!--
+- 📫 How to reach me: Twitter.
+- ⚡ Fun fact: 
+
+#### Socials
+- [Instagram]()
+- [Twitter]()
+
 **JaackDev/jaackdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +25,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
